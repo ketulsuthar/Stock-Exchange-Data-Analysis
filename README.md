@@ -18,6 +18,7 @@ Exploratory analysis to understand how MoM or YoY companies from different secto
 This data set contains prices.csv and securities.csv files having the following features:
 
 ###### Prices.csv:
+[StockPrice](./StockPrices.csv)
 
 Date: Trading date<br>
 Symbol: Ticker code or listed company code on NY stock exchange<br>
@@ -28,6 +29,7 @@ High: Intra-day highest price for each listed company<br>
 Volume: Number of shares traded per day per company<br>
 
 ###### Securities.csv:
+[StockCompanies](./Stockcompanies.csv)
 
 Ticker_Symbol: Country to which the customer belongs <br>
 Security: Legal name of the listed company<br>
